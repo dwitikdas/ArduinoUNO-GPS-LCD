@@ -19,7 +19,7 @@
 #include <SoftwareSerial.h> //Including the SoftwareSerial Library
 #include <LiquidCrystal.h>  //Including the LCD Library
 
-#include <TinyGPS.h>       // Including the TinyGPS Library for the GPS from local folder
+#include "TinyGPS.h"       // Including the TinyGPS Library for the GPS from local folder
 
 TinyGPS gps;  // defining a funtional varible
 
